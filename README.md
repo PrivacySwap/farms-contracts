@@ -14,5 +14,6 @@ https://privacyswap.finance Feel free to read the code. More details coming soon
 
 
 ## Deployed Contracts / Hash
-
-# farms-contracts
+  
+  1. PrivacySwap ""
+  2. MasterChef ""
